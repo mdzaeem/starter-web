@@ -11,3 +11,4 @@ feature5.3
 feature5.4
 checking diff command check
 list
+*one file commit before adding and checking diff"
