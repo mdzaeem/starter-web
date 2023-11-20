@@ -1,6 +1,9 @@
 This is Mohammed Zaeem's file
 edited
 no conflicts
+i dont want any conflicts
+final conflict
+new conflict in COn file
 feature4
 feature4.1
 feature4.2
@@ -13,3 +16,7 @@ feature5.4
 checking diff command check
 list
 *one file commit before adding and checking diff"
+staging area
+hi
+bye
+

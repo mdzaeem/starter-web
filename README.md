@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 ##
 
 checking two diff files diff command before commit
+
+##
+
+New staging
