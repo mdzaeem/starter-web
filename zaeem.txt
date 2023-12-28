@@ -25,3 +25,4 @@ dummy branch 2
 dummy branch 1
 dumy2
 Zaeem creat a new branch
+zaeem merge
